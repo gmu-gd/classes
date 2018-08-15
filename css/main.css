@@ -312,29 +312,7 @@ li.heading {
    ========================================================================== */
 
 @media only screen and (max-width: 1050px) {
-    .align {
-        width: 85%;
-        margin: 0 auto;
-    }
-    #container {
-        width: 85%;
-        margin: 0 auto;
-    }
-    .third {
-        width: 100%;
-        float: none;
-        clear: both;
-        border-bottom: 1px dotted tomato;
-    }
-    .whole {
-        width: 100%;
-        float: none;
-        border-bottom: none;
-    }
-    .textblock {
-        width: 100%;
-        margin: 0 auto;
-    }
+
 }
 
 @media print,
