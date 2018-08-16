@@ -123,10 +123,6 @@ header {
     width: 90vw;
     margin: 0 auto;
 }
-.third {
-    width: 33%;
-    float: left;
-}
 .whole {
     width: 100%;
 }
@@ -152,14 +148,6 @@ p {
     font-size: 1em;
     line-height: 1.4em;
     color: dimgray;
-}
-span {
-    background-color: white;
-    padding-left: 0px 2px;
-}
-span.strike {
-    background-color: whitesmoke;
-    text-decoration: line-through;
 }
 a {
     color: black;
@@ -210,19 +198,6 @@ li.heading {
     font-weight: bold;
     letter-spacing: 1px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /* ==========================================================================
