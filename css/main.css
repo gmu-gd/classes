@@ -152,7 +152,7 @@ p {
 a {
     color: black;
     text-decoration: none;
-}     
+}
 a:hover {
     color: black;
     text-decoration: none;
@@ -162,12 +162,12 @@ header a {
     color: whitesmoke;
     font-family: 'Fira Mono', monospace;
     font-weight: 400;
-}     
+}
 header a:hover {
     color: whitesmoke;
     text-decoration: none;
     border-bottom: 1px dotted whitesmoke;
-}  
+}
 footer a {
     color: dodgerblue;
 }
